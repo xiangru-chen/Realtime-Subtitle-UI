@@ -3,9 +3,9 @@ import re
 
 # TODO
 language = "auto"  # "en", "zh", "auto"...
-WHISPER_STREAM_PATH = "...your_path.../whisper.cpp/stream"
-WHISPER_MODEL_PATH = "...your_path.../whisper.cpp/models/ggml-base.bin"
-WHISPER_LOG_FILE_PATH = "...any_path_and_filename..."
+WHISPER_STREAM_PATH = "C:/Users/angellachen/whisper.cpp-master/whisper.cpp-master/examples/stream" #"...your_path.../whisper.cpp/stream"
+WHISPER_MODEL_PATH = "C:/Users/angellachen/whisper.cpp-master/whisper.cpp-master/models/ggml-base.bin" #"...your_path.../whisper.cpp/models/ggml-base.bin"
+WHISPER_LOG_FILE_PATH = "C:/Users/angellachen/whisper.cpp-master/my_log_file_path"
 
 
 def start_whisper():
