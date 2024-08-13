@@ -4,7 +4,7 @@ import speech_to_text
 import streamlit as st
 
 st.markdown("# Welcome to Realtime Speech Summary!")
-st.sidebar.markdown("# Try to said something")
+# st.sidebar.markdown("# Try to said something")
 
 # Streamlit UI
 col1, col2 = st.columns(2)
